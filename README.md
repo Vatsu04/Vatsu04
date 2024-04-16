@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=1F9C17&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Gustavo+Tascheri)](https://git.io/typing-svg)
 
+🖥️Estudante de Ciência da Computação da UVA
+🔧Técnico em Informática formado no SENAC
 
 ## Github Stats:
 
