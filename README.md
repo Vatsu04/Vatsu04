@@ -1,4 +1,6 @@
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Ola!+Meu+nome+é+Gustavo+Passos+Tascheri!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=1F9C17&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Gustavo+Tascheri)](https://git.io/typing-svg)
 
   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vatsu04&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsu04&layout=compact&langs_count=7&theme=dark"/><br><br>
