@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Gustavo Passos Tascheri 😁
 
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vatsu04&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsu04&layout=compact&langs_count=7&theme=dracula"/><br><br>
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vatsu04&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsu04&layout=compact&langs_count=7&theme=dark"/><br><br>
   [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,php,cs,unity,angular,c,cpp,sql&theme=dark)](https://skillicons.dev)
    
 
