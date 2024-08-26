@@ -4,6 +4,7 @@
 
 - 🖥️Estudante de Ciência da Computação da UVA 
 - 🔧Técnico em Informática formado no SENAC
+- 🖥️Jovem aprendiz no setor de TI na empresa Leve Saúde 
 
 
 ## Github Stats:
