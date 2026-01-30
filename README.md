@@ -4,7 +4,7 @@
 
 - 🖥️Cientista da Computação Formado
 - 🔧Técnico em Informática formado no SENAC
-- 🖥️Engenheiro de Software e Machine Learning na VigIABrasil
+- 📹Engenheiro de Software e Machine Learning na VigIABrasil
 
 
 ## Github Stats:
