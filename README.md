@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=1F9C17&random=false&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Gustavo+Passos+Tascheri)](https://git.io/typing-svg)
 
 - 🖥️Cientista da Computação Formado
+- 🖥️Mestrando em Engenharia de Software - PUCRIO
 - 🔧Técnico em Informática formado no SENAC
 - 📹Engenheiro de Software e Machine Learning na VigIABrasil
 
