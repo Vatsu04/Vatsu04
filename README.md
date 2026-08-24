@@ -17,7 +17,7 @@
 
 ## Linguagens e Habilidades:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,react,nextjs,javascript,typescript,html,css,docker,mysql,sql,c,cpp,cs,php,unity,angular&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,react,nextjs,javascript,typescript,html,css,docker,mysql,c,cpp,cs,php,unity,angular&theme=dark)](https://skillicons.dev)
 
 ## Redes Sociais
 
